@@ -4,9 +4,9 @@ Solr is highly reliable, scalable and fault tolerant, providing distributed inde
 
 ## Installation
 
-```
-$ chmod +x ./init.sh
-$ ./init.sh
+```bash
+chmod +x ./init.sh
+./init.sh
 ```
 
 ## Usage
