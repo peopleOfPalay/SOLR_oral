@@ -4,11 +4,11 @@ Solr is highly reliable, scalable and fault tolerant, providing distributed inde
 
 ## Installation
 
-```bash
-chmod +x init.sh
-pip install foobar
+```
+$ chmod +x ./init.sh
+$ ./init.sh
 ```
 
 ## Usage
 
-Go on localhost:8983 to see GUI
+Go on ```localhost:8983``` to see GUI
