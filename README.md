@@ -5,6 +5,7 @@ Solr is highly reliable, scalable and fault tolerant, providing distributed inde
 ## Installation
 
 ```bash
+cd ./server
 chmod +x ./init.sh
 ./init.sh
 ```
@@ -12,3 +13,5 @@ chmod +x ./init.sh
 ## Usage
 
 Go on ```localhost:8983``` to see GUI
+You can run the demo script like so:
+
