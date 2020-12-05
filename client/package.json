@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/peopleOfPalay/SOLR_oral/issues"
   },
-  "homepage": "https://github.com/peopleOfPalay/SOLR_oral#readme"
+  "homepage": "https://github.com/peopleOfPalay/SOLR_oral#readme",
+  "dependencies": {
+    "solr-node": "^1.2.1"
+  }
 }
