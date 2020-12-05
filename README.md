@@ -11,6 +11,10 @@ chmod +x ./init.sh
 ```
 
 ```bash
+cd ..
+```
+
+```bash
 cd ./client
 npm install
 ```
