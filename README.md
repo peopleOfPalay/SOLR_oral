@@ -22,7 +22,9 @@ npm install
 ## Usage
 
 Go on ```localhost:8983``` to see GUI
+
 You can run the demo script like so:
+
 ```bash
 cd ./client
 npm start
